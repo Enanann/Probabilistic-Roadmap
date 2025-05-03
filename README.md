@@ -23,6 +23,10 @@
   <img src="./demo/m3.png" alt="Screenshot 1" width="100%" />
 </p>
 
+
+https://github.com/user-attachments/assets/52b74aec-62e4-4774-a3b5-f8084d629dec
+
+
 ## How it works
 
 - Sinh mẫu ngẫu nhiên trong không gian cấu hình và kiểm tra va chạm với chướng ngại vật 
