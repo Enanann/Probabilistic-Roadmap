@@ -52,7 +52,7 @@ cmake -B build # Use -DCMAKE_TOOLCHAIN_FILE=path/to/vcpkg.cmake if using vcpkg
 cmake --build build --config Release
 ```
 
-- Để người dùng dễ dàng thử nghiệm mà không cần phải biên dịch mã nguồn, chúng tôi đã cung cấp sẵn một **file `.exe`** đã được build cho **Windows** trong phần **Releases** của repository.
+- Để người dùng dễ dàng thử nghiệm mà không cần phải biên dịch mã nguồn, chúng tôi đã cung cấp sẵn một **file `.exe`** đã được build cho **Windows** trong phần **Releases** của repository. (Đặt điểm đầu và đích trước khi nhập n và k để tránh tọa độ mặc định -1, -1)
 
 - Các tệp bao gồm:
 	- `pathplanning.exe`
